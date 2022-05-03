@@ -1,0 +1,17 @@
+Script started on 2022-04-28 08:55:17+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="117" LINES="21"]
+]0;ubuntu@ip-172-31-42-48: ~/jenkins[01;32mubuntu@ip-172-31-42-48[00m:[01;34m~/jenkins[00m$ llsl[K./llsnano docker-compose.ymlls[Knano docker-compose.ymlls[Kl./ll./[K[Kll
+total 20
+drwxrwxr-x  3 ubuntu ubuntu 4096 Apr 28 08:55 [0m[01;34m.[0m/
+drwxr-xr-x  8 ubuntu ubuntu 4096 Apr 27 12:31 [01;34m..[0m/
+-rw-rw-r--  1 ubuntu ubuntu    0 Apr 28 08:55 Lexa
+-rw-rw-r--  1 ubuntu ubuntu  220 Apr 27 18:38 docker-compose.yml
+drwxrwxr-x 16 ubuntu ubuntu 4096 Apr 28 08:53 [01;34mjenkins_home[0m/
+-rwxrwxr-x  1 ubuntu ubuntu  102 Apr 28 08:55 [01;32mscript[0m*
+]0;ubuntu@ip-172-31-42-48: ~/jenkins[01;32mubuntu@ip-172-31-42-48[00m:[01;34m~/jenkins[00m$ ./script Lexa Zyablov
+Hello Lexa Zyablov
+./script: line 6: unexpected EOF while looking for matching `''
+./script: line 7: syntax error: unexpected end of file
+]0;ubuntu@ip-172-31-42-48: ~/jenkins[01;32mubuntu@ip-172-31-42-48[00m:[01;34m~/jenkins[00m$ ./script Lexa Zyablovll[Ksnano docker-compose.ymlls[Knano docker-compose.ymlls[Kl./script Lexa Zyablov[Knano ./s[K[K[K[K[K[K[K[Kexit
+exit
+
+Script done on 2022-04-28 08:56:07+00:00 [COMMAND_EXIT_CODE="2"]
